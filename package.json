@@ -1,0 +1,12 @@
+{
+  "name": "artice",
+  "description": "Article file format and GUI editor",
+  "repository": {
+    "url": "github.com/zuma206/artice.git"
+  },
+  "author": {
+    "name": "Zuma",
+    "email": "zuma@zuma.eu.org",
+    "url": "https://zuma.eu.org/"
+  }
+}
